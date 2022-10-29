@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Mohan",
+        "age": 25,
+        "subject": "Math"
+    },
+    {
+        "name": "Sohan",
+        "age": 35,
+        "subject": "physics"
+    },
+    {
+        "name": "simma",
+        "age": 15,
+        "subject": "chemistry"
+    },
+    {
+        "name": "Geeta",
+        "age": 15,
+        "subject": "Math"
+    },
+    {
+        "name": "Ganesh",
+        "age": 25,
+        "subject": "computer Science"
+    },
+    {
+        "name": "Dinesh",
+        "age": 24,
+        "subject": "Sanskrit"
+    },
+    {
+        "name": "Dherej",
+        "age": 38,
+        "subject": "English"
+    },
+    {
+        "name": "kaveri",
+        "age": 23,
+        "subject": "Hindi"
+    }
+]
